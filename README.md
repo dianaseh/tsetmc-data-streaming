@@ -65,3 +65,10 @@ Only the relevant fields displayed on the TSETMC market map are retained in the 
 - percent
 - priceChangePercent
 - hEvenShow
+
+
+## Contact
+
+If you have any questions, feel free to reach out at [dianaseh004@gmail.com](mailto:your-email@gmail.com).
+
+Diana Naseh
